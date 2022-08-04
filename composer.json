@@ -1,5 +1,8 @@
 {
-    "name": "piercemcgeough/base-app",
+    "name": "piercemcgeough/testing-testing-on-github",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Pierce McGeough",
