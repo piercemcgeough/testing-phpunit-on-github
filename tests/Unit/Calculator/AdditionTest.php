@@ -19,7 +19,7 @@ class AdditionTest extends TestCase
     public function add_up_given_operands()
     {
         $addition = new Addition();
-        $addition->setOperands([5, 10]);
+        $addition->setOperands([50, 10]);
 
         $this->assertEquals(15, $addition->calculate());
     }
