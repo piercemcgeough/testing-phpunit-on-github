@@ -14,6 +14,6 @@ class ExampleTest extends TestCase
     /** @test */
     public function falseIsFalse()
     {
-        $this->assertFalse(false);
+        $this->assertFalse(true);
     }
 }
